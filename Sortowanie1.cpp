@@ -76,7 +76,7 @@ int *pom; //Tablica pomocnicza, potrzebna przy scalaniu
 
 //Scalenie posortowanych podtablic
 void Scal(int Tablica[], int lewy, int srodek, int prawy) //Przyjmuje Tablice, indeksy brzegowych elementow i srodek scalanej tablicy
-	int i = lewy, j = srodek + 1; //Ustawianie i i j tak by przechodzic po odpowiednich elementach
+	int i = lewy, j = srodek + 1; //Ustawianie i i j tak by przechodzic po odpowiednich elementach.
 
   
   for(int i = lewy;i<=prawy; i++) //Kopiowanie calej tablicy do tablicy pomocniczej
