@@ -257,7 +257,7 @@ void TestyPrzemienne (int Tablica[]) //Przyjmuje pusta zmienna dla tablic
 
         zapisywanie<<ile<<","<<BabelkoweCzas.count()<<","<<ScalanieCzas.count()<<endl; //zapisywanie czasow do pliku
     }
-    zapisywanie.close(); //zamkniecie pliku
+    zapisywanie.close(); //zamkniecie pliku.
 
 }
 
