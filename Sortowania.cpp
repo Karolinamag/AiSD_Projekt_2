@@ -1,3 +1,4 @@
+//Sortowania: bąbelkowe i przez scalanie
 #include <iostream>
 #include <ctime> //biblioteka potrzebna to losowania
 #include <fstream> //biblioteka do wczytywania i zapisywania do txt
